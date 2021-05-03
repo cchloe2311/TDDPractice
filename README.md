@@ -21,7 +21,7 @@ ref. https://medium.com/@nongdenchet/test-driven-development-with-mvvm-in-androi
 - 문서로서의 역할
 # TDD
 Test Driven Development, 테스트코드를 개발 전에 먼저 작성하는 개발 방식
-## vs. 프로덕선 코드 작성 뒤 테크스 코드 작성
+## vs. 프로덕선 코드 작성 뒤 테스트 코드 작성
 - 테스트코드를 먼저 작성하고 그에 맞춰 프로덕션 코드를 짜기 때문에 자연스럽게 testable한 코드 작성
 - 명세를 보고 나올 수 있는 성공/실패 케이스를 예측, 테스트 코드 작성
 (작성된 프로덕션 코드를 읽고 끼워 맞춰 테스트코드를 만들었기 때문에 테스트코드를 통과함. 실패 케이스를 떠올리기 어려울 수 있음)
